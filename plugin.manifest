@@ -1,0 +1,8 @@
+pluginclassname=QuickCounterPlugin
+pluginname=QuickCounterPlugin
+origin=tobiasthelen
+version=0.2.0
+studipMinVersion=2.2
+description="Embeddable counting widget and count summary via Stud.IP markup."
+dbscheme=db/install.sql
+uninstalldbscheme=db/uninstall.sql
